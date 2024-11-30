@@ -8,5 +8,5 @@ It's my __first__ *Yandex project*
 I'm studying git
 
 ```
-You knoe git?
+You know git?
 ```
